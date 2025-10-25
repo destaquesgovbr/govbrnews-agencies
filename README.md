@@ -110,10 +110,10 @@ const newsFeeds = Object.entries(agencies).map(([key, agency]) => ({
 
 ## Data Quality
 
-✅ **Complete**: All 156 agencies have complete metadata
-✅ **Validated**: All parent references are valid
-✅ **Consistent**: Uniform structure across all entries
-✅ **Up-to-date**: Last updated October 2025
+- ✅ **Complete**: All 156 agencies have complete metadata
+- ✅ **Validated**: All parent references are valid
+- ✅ **Consistent**: Uniform structure across all entries
+- ✅ **Up-to-date**: Last updated October 2025
 
 ## Research Methodology
 
