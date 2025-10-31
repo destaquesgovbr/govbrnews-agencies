@@ -2,7 +2,7 @@
 # Root: Presidência da República (not in sources list as it has no news URL)
 # Total: 157 entities (156 agencies + presidencia root)
 # Format: Tree structure using agency keys/acronyms only
-# 
+#
 # Reading the tree:
 #   - Simple list items (- key) are leaf nodes with no children
 #   - Dictionary items (- key:) have children listed below with increased indentation
@@ -156,7 +156,8 @@ presidencia:
     - conselho-nacional-de-saude
     - iec
     - inca
-  - secom
+  - secom:
+    - ebc
   - secretariageral
   - sri
   - trabalho-e-emprego:
