@@ -139,7 +139,7 @@ This data is compiled from public government sources and is provided for informa
 
 ## Maintained By
 
-[Destaques Gov.br](https://github.com/destaquesgovbr)
+[DestaquesGovBr](https://github.com/destaquesgovbr)
 
 ---
 
